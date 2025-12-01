@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3002",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -34,7 +34,7 @@
     "plotly.js-dist-min": "^3.3.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "react-simple-maps": "^3.0.0",
+    "react-simple-maps": "^1.0.0",
     "recharts": "^2.15.4",
     "stream-buffers": "^3.0.3",
     "tailwind-merge": "^3.3.1",
